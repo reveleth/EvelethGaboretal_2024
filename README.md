@@ -6,7 +6,8 @@ The code for creating Fig 2, 4, 5, and Table 1 are in Gabor's Matlab file.
 
 
 Data Availability Statement
-Discrete in situ field data is available here https://seagull.glos.org/data-console-datasets/8c3e96c6914440c48209b2b5b1016d71
+
+Discrete in situ field data is available here [https://seagull.glos.org/data-console-datasets/8c3e96c6914440c48209b2b5b1016d71](https://doi.org/10.5281/zenodo.11403345)
 
 Discharge and DOC data for the Maumee River from the USGS Water Data for the Nation – Maumee River at Waterville OH – 04193500: https://waterdata.usgs.gov/monitoring-location/04193500/
 
