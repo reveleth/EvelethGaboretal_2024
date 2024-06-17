@@ -14,3 +14,6 @@ Discharge and DOC data for the Maumee River from the USGS Water Data for the Nat
 Windspeed data at Toledo Headlight No 2. is available here https://www.ndbc.noaa.gov/download_data.php?filename=thlo1h2022.txt.gz&dir=data/historical/stdmet/. 
 
 Timeseries data from the WEO2 and Stone Lab Buoys are accessible here https://seagull.glos.org/ 
+
+PyCO2Sys
+Humphreys, M. P., Schiller, A. J., Sandborn, D. E., Gregor, L., Pierrot, D., van Heuven, S. M. A. C., Lewis, E. R., and Wallace, D. W. R. (2024). PyCO2SYS: marine carbonate system calculations in Python. Zenodo. doi:10.5281/zenodo.3744275.
