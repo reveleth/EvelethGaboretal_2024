@@ -1,8 +1,8 @@
 # EvelethGaboretal_2024
 Data analysis and plotting code for "Seasonal Carbon Budget Succession in Lake Erie’s Western Basin"
 This is a collaborative project between the lab of Rachel Eveleth at Oberlin College and the lab of Rachel Gabor at Ohio State University.
-The code for creating Fig 3, 6, 7, and 8, calculating CO2 flux and statistics (linear regressions and ANOVAs) are in Eveleth's Python notebook.
-The code for creating Fig 2, 4, 5, and Table 1 are in Gabor's Matlab file.
+The code for creating Fig 3, 6, 7, and 8, calculating CO2 flux and statistics (PCA, linear regressions and ANOVAs) are in Eveleth's Python notebook.
+The code for creating Fig 2, 4, 5, and Table 1 are in Gabor's Matlab files.
 
 
 Data Availability Statement
